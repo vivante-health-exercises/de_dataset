@@ -1,0 +1,45 @@
+original_column_name,new_column_name,metadata,description
+SEQN,id,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#SEQN,Respondent sequence number
+RIAGENDR,gender,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#RIAGENDR,1 = Male; 2 = Female
+RIDAGEYR,age,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#RIDAGEYR,Age in years of the participant at the time of screening. Individuals 80 and over are topcoded at 80 years of age.
+RIDRETH3,race_ethnicity,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#RIDRETH3,1 = Mexican American; 2 = Other Hispanic; 3 = Non-hispanic White; 4 = Non-hispanic Black; 5 = Non-hispanic Asian; 7 = Other Race/Multiracial
+DMQMILIZ,active_duty_veteran,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#DMQMILIZ,1 = Yes; 2 = No; 7 = Refused; 9 = Don't Know
+DMDEDUC3,education_child,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#DMDEDUC3,Education level - Children/Youth 6-19; 1-12 correspond to grade level; 13 = HS graduate; 14 = GED; 15 = More than highschool; 55 = Less than 5th grade; 66 = Less than 9th grade; 77 = Refused; 99 = Don't Know 
+DMDEDUC2,education_adult,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#DMDEDUC2,Education level - Adults 20+; 1 = Less than 9th grade; 2 = 9-11th grade; 3 = HS graduate/GED; 4 = Some college/AA degree; 5 = College graduate; 7 = Refused; 9 = Don't Know
+DMDMARTL,marital_status,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#DMDMARTL,1 = Married; 2 = Widowed; 3 = Divorced; 4 = Separated; 5 = Never Married; 6 = Living w/ partner; 77 = Refused; 99 = Don't Know
+RIDEXPRG,pregnant,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#RIDEXPRG,1 = Yes; 2 = No; 3 = Unknown
+DMDHHSIZ,household_size,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#DMDHHSIZ,Total number of people in the household
+INDHHIN2,household_income,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DEMO_H.htm#INDHHIN2,Total annual household income (reported as a range value in dollars); 1 = <5K; 2 = 5 - <10K; 3 = 10 - <15K;  4 = 15 - <20K; 5 = 20 = <25K; 6 = 25 - <35K; 7 = 35 - <45K; 8 = 45 - <55K; 9 = 55 - <65K; 10 = 65 - <75K; 12 = 20K+; 13 = < 20K; 14 = 75 - <100K; 15 = 100K+; 77 = Refused; 99 = Don't Know
+DRQSDIET,special_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDIET,1 = Yes; 2 = No; 9 = Don't Know
+DRQSDT1,weight_loss_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT1,1 = Weight loss or low calorie diet
+DRQSDT2,low_fat_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT2,2 = Low fat or low cholesterol diet
+DRQSDT3,low_salt_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT3,3 = Low salt or low sodium diet (including diet to lower blood pressure or hypertension)
+DRQSDT4,low_sugar_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT4,4 = Sugar free or low sugar diet
+DRQSDT5,low_fiber_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT5,5 = Low fiber or low residue diet
+DRQSDT6,,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT6,6 =  High fiber or high residue diet
+DRQSDT7,diabetic_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT7,7 = Diabetic diet (including gestational diabetic diets)
+DRQSDT11,gluten_free_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT11,11 = Gluten-free/Celiac diet
+DRQSDT12,renal_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT12,12 = Renal/Kidney diet
+DR1TNUMF,food_item_ct,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TNUMF,Total number of foods/beverages reported in the individual foods file
+DR1TKCAL,total_calories,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TKCAL,Energy (kcal)
+DR1TSUGR,total_sugar,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TSUGR,Total sugars (gm)
+DR1TFIBE,total_fiber,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TFIBE,Dietary fiber (gm)
+DR1TTFAT,,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TTFAT,Total fat (gm)
+DR1TCHOL,total_cholesterol,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCHOL,Cholesterol (mg)
+DR1TCAFF,total_caffeine,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCAFF,Caffeine (mg)
+DR1TALCO,total_alcohol,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TALCO,Alcohol (gm)
+LBXTR,triglyceride_lab,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/TRIGLY_H.htm#LBXTR,Triglyceride (mg/dL)
+LBDLDL,ldl_cholesterol_lab,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/TRIGLY_H.htm#LBDLDL,LDL-cholesterol (mg/dL)
+LBXGLU,glucose_lab,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/GLU_H.htm#LBXGLU,Fasting Glucose (mg/dL)
+HUQ010,general_health,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ010,Subjective rating of health. 1 = Excellent; 2 = Very Good; 3 = Good; 4 = Fair; 5 = Poor; 7 = Refused; 9 = Don't Know
+HUQ020,general_health_change,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ020,Subjective rating of health now compared with 1 year ago. 1 = Better; 2 = Worse; 3 = About the same
+HUQ030,routine_healthcare_place,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ030,Routine place to go for healthcare. 1 = Yes; 2 = There is no place; 3 = There is more than one place; 7 = Refused; 9 = Don't Know
+HUQ041,preferred_healthcare_place,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ041,Type place most often go for heatlhcare. 1 = Clinic/Health center; 2 = Doctor's Office/HMO; 3 Hospital ER; 4 = Hospital Outpatient; 5 = Other Place; 6 = Doesn't go to one place most often; 77 = Refused; 99 = Don't Know
+HUQ051,healthcare_visit_ct,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ051,# times receive healthcare over past year. 1 = 1; 2 = 2-3; 3 = 4-5; 4 = 6-7; 5 = 8-9; 6 = 10-12; 7 = 13-15; 8 = 16+; 77 = Refused; 99 = Don't Know
+HUQ061,last_healthcare_visit,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ061,How long since last healthcare visit. 1 = 6 months or less; 2 = 6 months - < 1yr; 3 = 1yr - < 2 yrs; 4 = 2 yrs - < 5 yrs; 5 = > 5 yrs; 6 = Never; 77 = Refused; 99 = Don't Know
+HUQ071,overnight_hospital_stay,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ071,Overnight hospital patient in last year. 1 = Yes; 2 = No; 7 = Refused; 9 = Don't Know
+HUQ080,overnight_hospital_stay_ct,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUD080,#times overnite hospital patient/last yr; 6 = 6+; 77777 = Refused; 99999 = Don't Know
+HUQ090,mental_health_visit,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/HUQ_H.htm#HUQ090,Seen mental health professional/past yr. 1 = Yes; 2 = No; 7 = Refused; 9 = Don't Know
+BMXWT,weight,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BMX_H.htm#BMXWT,Weight (kg)
+BMXHT,height,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BMX_H.htm#BMXHT,Standing height (cm)
+BMXBMI,bmi,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/BMX_H.htm#BMXBMI,Body Mass Index (kg/m**2)
