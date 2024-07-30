@@ -16,7 +16,7 @@ DRQSDT2,low_fat_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQ
 DRQSDT3,low_salt_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT3,3 = Low salt or low sodium diet (including diet to lower blood pressure or hypertension)
 DRQSDT4,low_sugar_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT4,4 = Sugar free or low sugar diet
 DRQSDT5,low_fiber_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT5,5 = Low fiber or low residue diet
-DRQSDT6,,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT6,6 =  High fiber or high residue diet
+DRQSDT6,drqsdt6,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT6,6 =  High fiber or high residue diet
 DRQSDT7,diabetic_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT7,7 = Diabetic diet (including gestational diabetic diets)
 DRQSDT11,gluten_free_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT11,11 = Gluten-free/Celiac diet
 DRQSDT12,renal_diet,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DRQSDT12,12 = Renal/Kidney diet
@@ -24,7 +24,7 @@ DR1TNUMF,food_item_ct,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR
 DR1TKCAL,total_calories,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TKCAL,Energy (kcal)
 DR1TSUGR,total_sugar,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TSUGR,Total sugars (gm)
 DR1TFIBE,total_fiber,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TFIBE,Dietary fiber (gm)
-DR1TTFAT,,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TTFAT,Total fat (gm)
+DR1TTFAT,total_fat,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TTFAT,Total fat (gm)
 DR1TCHOL,total_cholesterol,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCHOL,Cholesterol (mg)
 DR1TCAFF,total_caffeine,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TCAFF,Caffeine (mg)
 DR1TALCO,total_alcohol,https://wwwn.cdc.gov/Nchs/Nhanes/2013-2014/DR1TOT_H.htm#DR1TALCO,Alcohol (gm)
