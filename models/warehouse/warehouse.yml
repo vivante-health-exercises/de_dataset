@@ -1,0 +1,16 @@
+version: 2
+
+# TODO Add your models here
+# models:
+#   - name: my_model
+#     description: ...
+#     columns:
+#       - name: my_unique_id
+#         description: ...
+#         data_tests:
+#           - unique
+#       - name: my_other_col
+#         description: ...
+#         data_tests:
+#           - not_null
+#       ...          

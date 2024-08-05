@@ -1,0 +1,19 @@
+name: 'de_dataset'
+version: '1.0.0'
+config-version: 2
+
+profile: 'local_dev'
+
+model-paths: ["models"]
+seed-paths: ["data"]
+snapshot-paths: ["snapshots"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+
+target-path: "target"  # directory which will store compiled SQL files
+clean-targets:         # directories to be removed by `dbt clean`
+    - "target"
+    - "dbt_packages"
+
+models:
+  de_dataset:
